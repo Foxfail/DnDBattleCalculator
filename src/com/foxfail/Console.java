@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class Console {
 
     private static final String PLAYERS_FILE_NAME = "Players.xml";
     private static final String MONSTERS_FILE_NAME = "Monsters.xml";
